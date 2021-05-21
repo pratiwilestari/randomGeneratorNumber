@@ -13,7 +13,7 @@ Built with PHP, HTML, Bootstraps and library dice
 Screenshots of your app and/or a link to your live demo
 
 ## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+I'm using XAMPP for run this code. Please put this file in htdocs and run it in your browser. I hope it will work
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
